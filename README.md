@@ -72,3 +72,8 @@ This project is licensed under the MIT License - see the [LICENSE](https://githu
 
 ## Acknowledgements
 We extend our deepest gratitude to all healthcare workers, researchers, and everyone on the front lines combating the virus. This project is a tribute to their tireless efforts and sacrifices.
+
+## Video Demo
+See [Video Demo(in Chinese)](https://www.capcut.cn/share/7247485648234353931?t=1)
+
+
