@@ -24,7 +24,7 @@
       <img src="https://cdn.mathpix.com/snip/images/3r3gwyspO8pXeFd_zfP8ob310--4XDEr2BTH5xUG8IQ.original.fullsize.png" alt="Image 3" width="400">
     </td>
     <td style="text-align: center;">
-      Map View
+      Interactive Map View
     </td>
   </tr>
 </table>
