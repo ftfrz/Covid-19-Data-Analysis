@@ -61,7 +61,7 @@ All libraries can be installed via pip using the `requirements.txt` file.
 
 
 ## Running the Project
-After following the instructions in this readme, a competent programmer should be able to run the project successfully. All necessary files, including the code and data sources, are included in the project repository. If you encounter any issues, please open an issue in the project's GitHub repository.
+All necessary files, including the code and data sources, are included in the project repository. If you encounter any issues, please open an issue in the project's GitHub repository.
 
 # About Covid-19-Data-Analysis
 
