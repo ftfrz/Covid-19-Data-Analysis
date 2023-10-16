@@ -1,5 +1,8 @@
 # Covid-19-Data-Analysis
 
+<div align="center">
+  <img src="https://cdn.mathpix.com/snip/images/ex4kxobztjWOA1IawNjtmsExyjOlXhkejKyRYE6NNRw.original.fullsize.png" width="500"/>
+  
 ## Project Overview
 "Covid-19-Data-Analysis" is a data-driven web application that provides up-to-date and comprehensive information about the global COVID-19 pandemic. It visualizes global trends, individual country analyses, and comparison analyses. The application also features a map view to illustrate the worldwide spread of the pandemic. The statistical data is extracted from CSV files containing global confirmed, death, and recovery cases.
 <table>
