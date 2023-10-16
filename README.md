@@ -1,7 +1,7 @@
 # Covid-19-Data-Analysis
 
 <div align="center">
-  <img src="https://cdn.mathpix.com/snip/images/ex4kxobztjWOA1IawNjtmsExyjOlXhkejKyRYE6NNRw.original.fullsize.png" width="500"/>
+  <img src="https://cdn.mathpix.com/snip/images/ex4kxobztjWOA1IawNjtmsExyjOlXhkejKyRYE6NNRw.original.fullsize.png" width="300"/>
 </div>
 
 ## Project Overview
